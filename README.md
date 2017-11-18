@@ -45,3 +45,10 @@ W2: [[ 0.14642762]]
 b: 0.003206
 cost: 0.001672
 ```
+
+Next we will develop a logistic regression model.
+
+This model will predict if the price of Google stock goes up based on S&P 500 index with an accuracy of 72.8%
+```
+Accuracy: 0.728
+```
